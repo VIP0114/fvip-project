@@ -1,2 +1,2 @@
-# fvip-project
-F VIP digital asset fund
+# FVIP Project
+F VIP digital asset fund platform.
